@@ -3,3 +3,4 @@ learned git add
 learned git commit
 learned git push
 learned git pull
+learned git clone
