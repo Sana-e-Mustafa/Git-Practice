@@ -6,3 +6,4 @@ learned git pull
 learned git clone
 learned git log
 learned git branch
+learned git merge
