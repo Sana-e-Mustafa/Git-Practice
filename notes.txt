@@ -1,3 +1,4 @@
 learned git status
 learned git add
 learned git commit
+learned git push
