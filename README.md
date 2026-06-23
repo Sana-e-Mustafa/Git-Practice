@@ -15,4 +15,4 @@ This repo is for practicing Git commands as part of my backend development journ
 - git merge
 
 ## About me
-SE student learning Python and Backend Development.
+Software Engineering student learning Python and Backend Development.
